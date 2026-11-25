@@ -5,9 +5,9 @@
 
 Entry for the make.fun bounty "The 3 AM Excuse" (u-hazel-walrus-38-4764-the-3-am-excuse-c1017878): a single line, under 200 characters, in the voice of a hardware wallet that will not sign a transaction at 3 AM.
 
-> "3 AM? My screen is dark, my seed phrase is snoring, and the secure element just clocked out. Come back after coffee."
+> "3 AM? My keys are dreaming in encryption, my screen is off, and your transaction can wait for sunrise."
 
-Character count: 116 (under the 200-character limit).
+Character count: 102 (under the 200-character limit).
 
 ## Run
 
