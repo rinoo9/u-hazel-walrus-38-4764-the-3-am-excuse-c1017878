@@ -6,7 +6,7 @@ The program writes the entry line to /output/entry.txt.
 
 import os
 
-ENTRY = "3 AM? My keys are dreaming in encryption, my screen is off, and your transaction can wait for sunrise."
+ENTRY = "3 AM? My seed phrase has a union, and clause 4 says no signatures before coffee. Come back at sunrise — with a better gas fee and an apology."
 
 OUTPUT_PATH = "/output/entry.txt"
 
